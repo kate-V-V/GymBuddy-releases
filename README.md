@@ -18,7 +18,7 @@ The source code is not included in this repository.
 
 Download the latest APK from the Releases section:
 
-https://github.com/YOUR-USERNAME/gymbuddy-releases/releases
+https://github.com/kate-V-V/gymbuddy-releases/releases
 
 ## Security verification
 
