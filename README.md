@@ -1,8 +1,3 @@
-# GymBuddy-releases
-This repository is used only to distribute public pilot APK builds of GymBuddy.
-The source code is not included and is not licensed for reuse.
-
-
 # GymBuddy Releases
 
 This repository is used to distribute public pilot APK builds of GymBuddy.
