@@ -4,6 +4,8 @@ This repository is used to distribute public pilot APK builds of GymBuddy.
 
 GymBuddy is an Android MVP for guided strength-training planning, workout execution, workout history, and conservative plan adaptation.
 
+More details about the logic and exercise library in the GymBuddy - https://gymbuddy.katethought.xyz/
+
 The source code is not included in this repository.
 
 ## Current pilot build
