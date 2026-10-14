@@ -1,14 +1,19 @@
 # GymBuddy Releases
 
-This repository is used to distribute public pilot APK builds of GymBuddy.
+> **GymBuddy: Guided Strength is now on Google Play.**
+> Get the current version: [Google Play](https://play.google.com/store/apps/details?id=com.kate.gymbuddy&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dlaunch)
+>
+> The APK in this repository is the archived pilot build (MVP 0.1.0). It no longer receives updates.
+
+This repository was used to distribute public pilot APK builds of GymBuddy.
 
 GymBuddy is an Android MVP for guided strength-training planning, workout execution, workout history, and conservative plan adaptation.
 
-More details about the logic and the exercise library in  GymBuddy - https://gymbuddy.katethought.xyz/
+More details about the logic and the exercise library in GymBuddy - https://gymbuddy.katethought.xyz/
 
 The source code is not included in this repository.
 
-## Current pilot build
+## Archived pilot build (MVP 0.1.0)
 
 **Version:** GymBuddy MVP 0.1.0  
 **Platform:** Android smartphones only  
@@ -18,9 +23,13 @@ The source code is not included in this repository.
 
 ## Download
 
-Download the latest APK from the Releases section:
+For the current version, use [Google Play](https://play.google.com/store/apps/details?id=com.kate.gymbuddy&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dlaunch).
+
+The archived pilot APK is still available in the Releases section:
 
 https://github.com/kate-V-V/gymbuddy-releases/releases
+
+If you installed the pilot APK and Google Play says it can't install or update the app, uninstall the pilot version first, then install from Google Play.
 
 ## Security verification
 
@@ -30,3 +39,4 @@ After downloading the APK, you can verify it on Windows with:
 
 ```powershell
 certutil -hashfile "C:\path\to\GymBuddy-MVP-0.1.0.apk" SHA256
+```
